@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    background-color: lightcyan;
+}
+
+center{ 
+    display: block;
+    margin: 0 auto; 
+}
+
+h2{
+    color: plum;
+    text-align: center;
+}
+
+h6{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+h4{
+    color: rgb(88, 63, 80);
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul{
+    color: rgb(88, 63, 80);
+    margin-top: 30px;
+    
+}
+
+h3{
+    color: darkorchid;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+p{
+    color: darkorchid;
+    margin-left: 20px;
+    
+}
